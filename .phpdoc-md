@@ -1,0 +1,13 @@
+<?php
+return (object)[
+    'rootNamespace' => 'Cacko\Yii2\Widgets\Video',
+    'destDirectory' => 'docs',
+    'format' => 'github',
+    'classes' => [
+        'Cacko\Yii2\Widgets\Video\Widgets\VideoWidget',
+        'Cacko\Yii2\Widgets\Video\Models\PluginOptions',
+        'Cacko\Yii2\Widgets\Video\Models\ScreenshotInterface',
+        'Cacko\Yii2\Widgets\Video\Controller\Controller',
+        'Cacko\Yii2\Widgets\Video\Components\Video\VideoInterface'
+    ],
+];
