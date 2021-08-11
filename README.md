@@ -12,7 +12,7 @@ it obviously relies on all the shite Yii2 decided to put as their defaults - boo
 
 ## Demo
 
-https://cacko-yii2.herokuapp.com/video/widget it's just a form with all options, so you can test, it has a barbaric look and feel. Demo site source is at https://github.com/cacko/yii2-widgets
+https://yii.cacko.net/video/widget it's just a form with all options, so you can test, it has a barbaric look and feel. Demo site source is at https://gitlab.com/cacko/yii2-widgets
 
 ## Usage
 
