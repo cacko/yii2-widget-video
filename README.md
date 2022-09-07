@@ -1,3 +1,5 @@
+# THIS IS JUNK< NEEDS MAJOR REFACTRING, DO NOT USE
+
 # yii2-widget-video
 
 Yii2 widget for handling videos from:
