@@ -27,7 +27,7 @@ class PluginOptions extends Model implements JsonSerializable
     public string $widgetContainer = '.widget-container';
     public bool $allowUnmute = true;
 
-    public function jsonSerialize()
+    public function jsonSerialize(): mixed
     {
         return array_filter($this->getAttributes(), fn ($val) => $val !== null);
     }
